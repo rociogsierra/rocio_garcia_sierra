@@ -35,6 +35,8 @@ algoritmo()
 # ejercicio 3
 
 def elementos_repetidos(lista_1, lista_2):
+lista_1 = ['h','o','l','a',' ', 'm','u','n','d','o']
+lista_2 = ['h','o','l','a',' ', 'l','u','n','a']
 
 
 
