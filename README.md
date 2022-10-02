@@ -55,6 +55,6 @@ def descomposicion(number):
 #definiremos lo que son las unidades, decenas, centenas y miles
 unidades = number % 10
 decenas = number % 100 // 10
-
+centenas = number % 10000 // 1000
 miles = number % 1000
-
+print ("000" + )
