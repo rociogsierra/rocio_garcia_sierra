@@ -90,3 +90,4 @@ return impares
 
 #definimos la lista 
 lista = [6,5,2,1,7]
+impares, pares = separar(lista)
