@@ -41,6 +41,8 @@ lista_2 = ['h','o','l','a',' ', 'l','u','n','a']
 lista_3 = [1]
 for letra in lista_1:
 for letra_repetida in lista_2:
+if (letra = letra_repetida) 
+elif (letra_repetida not in )
 
 
 
