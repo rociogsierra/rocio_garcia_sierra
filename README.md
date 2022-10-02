@@ -93,3 +93,6 @@ lista = [6,5,2,1,7]
 impares, pares = separar(lista)
 print(impares)
 print(pares)
+
+
+# ejercicio 7
