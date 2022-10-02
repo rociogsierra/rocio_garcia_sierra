@@ -107,4 +107,5 @@ else:
 lista.append(el)
 return lista
 
-lista = []
+lista = [10, -2]
+el = "Hola"
