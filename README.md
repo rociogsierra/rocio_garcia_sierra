@@ -82,4 +82,6 @@ for num in lista:
 if num (num % 2) == 0:
 pares.append(num)
 else:
-impares.
+impares.append(num)
+pares.sort
+impares.sort
