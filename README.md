@@ -66,5 +66,9 @@ print("00" + str(centenas))
 print (str(miles))
 tareas = sys.tareas
 
-if len(sys.tareas)> 1 : 
+if len(sys.tareas)> 1:
+number = int (sys.tareas [1])
+return descomposicion(number)
+else:
+break
 
