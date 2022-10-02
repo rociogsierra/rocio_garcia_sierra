@@ -8,6 +8,7 @@ def tenercadena(cadena_de_texto):
 #definimos la función
 #según el enunciado, para voltear una cadena usamos [::-1]
 voltearcadena = cadena_de_texto[::-1]
+voltear_cadena_de_texto = voltearcadena.split(",")
 
 
 
