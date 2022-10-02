@@ -46,4 +46,12 @@ return lista_3
 print (elementos_repetidos(lista_1,lista_2))
 
 
+# ejericio 4
 
+
+# ejercicio 5
+
+def descomposicion(number):
+#definiremos lo que son las unidades, decenas, centenas y miles
+unidades = number % 10
+miles = number % 
