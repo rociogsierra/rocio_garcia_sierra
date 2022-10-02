@@ -17,7 +17,7 @@ cadena_de_texto = "zeréP nauJ,01"
 tenercadena(cadena_de_texto)
     
     
-    
+# ejercicio 2    
 
 
 
