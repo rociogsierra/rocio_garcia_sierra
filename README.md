@@ -47,6 +47,10 @@ print (elementos_repetidos(lista_1,lista_2))
 
 
 # ejericio 4
+#he tratado de realizar el ejercicio de la forma en que lo he comprendido, por otra parte, no sé si lo he comprendido de forma correcta y tampoco sabía muy bien qué datos usar ya que el enunciado del ejercicio no menciona las tareas que son ni cuantas tareas son.
+
+
+
 
 
 # ejercicio 5
