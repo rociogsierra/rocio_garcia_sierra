@@ -37,6 +37,10 @@ algoritmo()
 def elementos_repetidos(lista_1, lista_2):
 lista_1 = ['h','o','l','a',' ', 'm','u','n','d','o']
 lista_2 = ['h','o','l','a',' ', 'l','u','n','a']
+#definimos la tercera lista
+lista_3 = [1]
+for letra in lista_1:
+for letra_repetida in lista_2:
 
 
 
