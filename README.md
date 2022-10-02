@@ -25,7 +25,10 @@ print numero
 #creamos una función para devolver un número
 def algoritmo():
 numero_magico = 12345679
-numero usuario = escribe_numero(numero = "Debe ser entre 1 y 9")
-
+numero_usuario = escribe_numero(numero = "Debe ser entre 1 y 9")
+numero_usuario = 9 * numero_usuario 
+numero_magico = numero_usuario * numero_magico
+return numero_magico
+algoritmo()
 
 
