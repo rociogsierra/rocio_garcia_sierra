@@ -96,3 +96,5 @@ print(pares)
 
 
 # ejercicio 7
+
+def agregar_una_vez(lista,el):
