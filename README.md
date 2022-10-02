@@ -19,5 +19,10 @@ tenercadena(cadena_de_texto)
     
 # ejercicio 2    
 
+def escribe_numero(numero):
+numero = int(input())
+print numero
+#creamos una función para devolver un número
+def
 
 
