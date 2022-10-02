@@ -51,9 +51,10 @@ print (elementos_repetidos(lista_1,lista_2))
 #he tratado de realizar el ejercicio de la forma en que lo he comprendido, por otra parte, no sé si lo he comprendido de forma correcta y tampoco sabía muy bien qué datos usar ya que el enunciado del ejercicio no menciona las tareas que son ni cuantas tareas son.
 
 def tareas_por_prioridad(tareas, número_de_orden):
-def orden(número_de_orden):
+def por_orden(número_de_orden):
 return número_de_orden[1]
-lista = sorted(key = orden, prioridad = True)
+lista_de_tareas = []
+lista_de_tareas = sorted(número_de_orden, key = por_orden, prioridaddeorden = True)
 
 
 tareas = ["tarea_1", "tarea_2", "tarea_3", "tarea_4", "tarea_5", "tarea_6"]
