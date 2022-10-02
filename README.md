@@ -54,4 +54,7 @@ print (elementos_repetidos(lista_1,lista_2))
 def descomposicion(number):
 #definiremos lo que son las unidades, decenas, centenas y miles
 unidades = number % 10
-miles = number % 
+decenas = number % 100 // 10
+
+miles = number % 1000
+
