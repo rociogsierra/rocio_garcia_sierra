@@ -77,3 +77,9 @@ break
 
 def separar(lista):
 pares = []
+impares = []
+for num in lista:
+if num (num % 2) == 0:
+pares.append(num)
+else:
+impares.
