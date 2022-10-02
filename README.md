@@ -32,3 +32,10 @@ return numero_magico
 algoritmo()
 
 
+# ejercicio 3
+
+lista_1 = ['h','o','l','a',' ', 'm','u','n','d','o]
+lista_2 = 
+
+
+
