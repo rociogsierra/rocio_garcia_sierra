@@ -89,4 +89,4 @@ return pares
 return impares
 
 #definimos la lista 
-lista = [6,5,2,7,1]
+lista = [6,5,2,1,7]
