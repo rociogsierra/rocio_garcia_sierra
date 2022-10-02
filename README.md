@@ -85,3 +85,5 @@ else:
 impares.append(num)
 pares.sort
 impares.sort
+return pares
+return impares
