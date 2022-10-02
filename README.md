@@ -72,3 +72,8 @@ return descomposicion(number)
 else:
 break
 
+
+# ejercicio 6
+
+def separar(lista):
+pares = []
