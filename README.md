@@ -102,4 +102,9 @@ if el in lista:
 try:
 print ValueError
 except ValueError as err:
+print ("el elemento está duplicado y no puede añadirse" + str(el))
+else:
+lista.append(el)
+return lista
 
+lista = []
