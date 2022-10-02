@@ -101,3 +101,5 @@ def agregar_una_vez(lista,el):
 if el in lista:
 try:
 print ValueError
+except ValueError as err:
+
