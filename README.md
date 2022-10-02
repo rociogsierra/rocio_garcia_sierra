@@ -42,7 +42,8 @@ lista_3 = [1]
 for letra in lista_1:
 for letra_repetida in lista_2:
 if (letra = letra_repetida) and (letra_repetida not in lista_3)
-
+return lista_3
+print (elementos_repetidos(lista_1,lista_2))
 
 
 
