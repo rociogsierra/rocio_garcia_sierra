@@ -23,6 +23,9 @@ def escribe_numero(numero):
 numero = int(input())
 print numero
 #creamos una función para devolver un número
-def
+def algoritmo():
+numero_magico = 12345679
+numero usuario = escribe_numero(numero = "Debe ser entre 1 y 9")
+
 
 
