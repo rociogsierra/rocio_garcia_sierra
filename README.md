@@ -100,4 +100,4 @@ print(pares)
 def agregar_una_vez(lista,el):
 if el in lista:
 try:
-raise Valueerror
+print ValueError
