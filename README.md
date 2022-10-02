@@ -87,3 +87,6 @@ pares.sort
 impares.sort
 return pares
 return impares
+
+#definimos la lista 
+lista = [6,2,5,7,1]
